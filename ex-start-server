@@ -1,0 +1,6 @@
+bash
+bin/zookeeper-server-start.sh config/zookeeper.properties
+
+bin/kafka-server-start.sh config/server.properties
+
+bin/kafka-topics.sh --zookeeper localhost:2181 --create --topic MyFirstTopic1 -- partitions 2 --replication-factor 1
