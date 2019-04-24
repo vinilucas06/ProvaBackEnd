@@ -1,0 +1,2 @@
+2019-04-23 21:57:18.522 -03:00 [INF] Starting web host
+2019-04-23 21:59:33.670 -03:00 [INF] Starting web host

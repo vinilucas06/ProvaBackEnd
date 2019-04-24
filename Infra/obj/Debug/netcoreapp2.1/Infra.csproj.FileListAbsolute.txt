@@ -1,0 +1,12 @@
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\bin\Debug\netcoreapp2.1\Infra.deps.json
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\bin\Debug\netcoreapp2.1\Infra.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\bin\Debug\netcoreapp2.1\Infra.pdb
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\bin\Debug\netcoreapp2.1\Dominio.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\bin\Debug\netcoreapp2.1\Dominio.pdb
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.csproj.CopyComplete
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\Infra\obj\Debug\netcoreapp2.1\Infra.pdb

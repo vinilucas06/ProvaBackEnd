@@ -1,0 +1,32 @@
+2019-04-23 22:13:01.086 -03:00 [INF] --start--
+2019-04-23 22:13:01.106 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-23 22:13:01.345 -03:00 [INF] Iniciando leitura mensagem
+2019-04-23 22:17:48.831 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-23 22:17:49.058 -03:00 [INF] Iniciando leitura mensagem
+2019-04-24 12:44:58.771 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:45:27.791 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:46:41.000 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:47:14.761 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:50:20.835 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:50:22.203 -03:00 [INF] Iniciando leitura mensagem
+2019-04-24 12:52:09.127 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:52:12.025 -03:00 [FTL] ERRO
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MicroServicoConsumidor.IniciarConsumidor.<>c__DisplayClass3_0.<Start>b__0(Object _, Message`2 msg) in C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoConsumidor\IniciarConsumidor.cs:line 72
+2019-04-24 12:52:43.656 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:52:52.428 -03:00 [INF] Iniciando leitura mensagem
+2019-04-24 12:53:42.269 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:53:52.818 -03:00 [FTL] ERRO
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at MicroServicoConsumidor.IniciarConsumidor.<>c__DisplayClass3_0.<Start>b__0(Object _, Message`2 msg) in C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoConsumidor\IniciarConsumidor.cs:line 72
+2019-04-24 12:55:08.257 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:56:40.310 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 12:58:17.859 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:09:47.611 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:11:54.262 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:13:12.101 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:20:54.989 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:25:08.362 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:25:08.597 -03:00 [INF] Iniciando leitura mensagem
+2019-04-24 13:34:15.768 -03:00 [INF] ==START MICRO SERVIÇO CONSUMIDOR==
+2019-04-24 13:34:18.014 -03:00 [INF] Iniciando leitura mensagem

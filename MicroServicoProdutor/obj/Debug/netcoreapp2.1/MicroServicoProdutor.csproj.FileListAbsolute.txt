@@ -1,0 +1,16 @@
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\MicroServicoProdutor.deps.json
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\MicroServicoProdutor.runtimeconfig.json
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\MicroServicoProdutor.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\MicroServicoProdutor.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\MicroServicoProdutor.pdb
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\Dominio.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\Dominio.pdb
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.csproj.CopyComplete
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\obj\Debug\netcoreapp2.1\MicroServicoProdutor.pdb
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\Infra.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\MicroServicoProdutor\bin\Debug\netcoreapp2.1\Infra.pdb

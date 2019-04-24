@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\bin\Debug\netcoreapp2.1\Dominio.deps.json
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\bin\Debug\netcoreapp2.1\Dominio.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\bin\Debug\netcoreapp2.1\Dominio.pdb
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\obj\Debug\netcoreapp2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\obj\Debug\netcoreapp2.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\obj\Debug\netcoreapp2.1\Dominio.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\obj\Debug\netcoreapp2.1\Dominio.dll
+C:\Users\Lucas\source\repos\ProvaBackEnd\Domain\obj\Debug\netcoreapp2.1\Dominio.pdb
