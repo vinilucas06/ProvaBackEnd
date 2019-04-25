@@ -1,5 +1,5 @@
 # ProvaBackEnd
 
-- c# .net core
-- confluent kafka c#
+- c# .net core 2.1
+- confluent kafka
 - serilog
